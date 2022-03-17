@@ -1,0 +1,5 @@
+*.python linguist-detectable=true 
+*.pandas linguist-detectable=true 
+*.numpy linguist-detectable=true 
+*.python linguist-detectable=true 
+
