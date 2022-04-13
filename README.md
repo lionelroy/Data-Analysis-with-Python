@@ -4,7 +4,7 @@
 <h2>Topics:<h2>    
     <ul>
         <li>Earthquake Annual deaths</li>
-        <li>NEO(Near-Earth-Objects)</li>
+        <li>Naming Conventions</li>
         <li>Superstore Sales</li>
         <li>Volcano Location and nearby population</li>
         <li>US county census race 2010-2019</li>
