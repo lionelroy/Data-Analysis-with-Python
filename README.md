@@ -3,7 +3,6 @@
 
 <h2>Topics:<h2>    
     <ul>
-        <li>Control Systems Naming Conventions</li>
         <li>Earthquake Annual deaths</li>
         <li>NEO(Near-Earth-Objects)</li>
         <li>Superstore Sales</li>
